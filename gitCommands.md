@@ -6,3 +6,4 @@
 6. git push: Laddar upp de locala förändringarna till ett remote repository. Används för att ladda upp de senaste förändringarna gjorde i sett projekt.
 7. git pull: Hämtar och sammanfogar ändringar från ett remote repository. Används för att hämta de senaste ändringarna gjorda till projektet.
 8. git fetsh: Hämtar ändringar fråm ett remote repository. Används för att se de förändringar som har hänt i repositorut.
+9. git merge: Sammanfogar förändringar från en gren till en annan. Kan användas för att integrera förändringar från development grenen in i main grenen till exempel.
