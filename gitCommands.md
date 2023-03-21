@@ -18,3 +18,4 @@
 18. git blame: Visar vem som gjorde varje ändring till en fil och när den gjordes. Används för att sparka folk, skapa ovänner och se vem som gjort vad.
 19. git remote: Visar vilket remote repository som är assisterat med den locala repot. Används också för att lägga till kopplingar, ändra och ta bort med add, -set-URL och remove
 20. git tag: Lägger till en tagg på en commit etikera. Används för att ge mer information om en commit, utöver commit kommentaren.
+21. git fetch --prune: Tar bort några remote spårnings grenar som inte längre existerar. Kan användas för att hålla det locala repot synkroniserat med det remote repositoryt, genom att ta bort inaktuella referenser.
