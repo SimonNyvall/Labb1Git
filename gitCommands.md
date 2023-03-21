@@ -13,3 +13,4 @@
 13. git diff: Visar skillnaden mellan två variationer av en fil. Kan användas för att se skillnaden mellan två commits `git diff <commit01_ID> <commit02_ID>`
 14. git stash: Temporärt förvarar ändringar som inte är klara för att bli commitade. Används för att lägga undan arbete för att arbeta på det senare.
 15. git reset: Tar bort ändringar från staging area eller drar tillbaka en commit. Kan användas för att dra tillbaka ändringar till staging area.
+16. git revert: Skapar en ny commit som ångrar ändringarna gjorda i en föregående commit. Används för att ångra en commit i ett repository.
