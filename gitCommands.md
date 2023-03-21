@@ -1,0 +1,1 @@
+24. git log --graph: Visar commits i history som en graf, för att kunna simplifiera hur historiken har varit.
