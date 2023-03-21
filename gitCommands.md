@@ -20,3 +20,4 @@
 20. git tag: Lägger till en tagg på en commit etikera. Används för att ge mer information om en commit, utöver commit kommentaren.
 21. git fetch --prune: Tar bort några remote spårnings grenar som inte längre existerar. Kan användas för att hålla det locala repot synkroniserat med det remote repositoryt, genom att ta bort inaktuella referenser.
 22. git checkout -b: Skapar en ny gren och sätter den som aktiv. Används när man vill man är lat och inte orkar skriva `git branch <gren namn>` och `git switch <gren namn>`.
+23. git checkout --: Förkastar förändringar gjorda mot en fil och ångar den backs till den senaste commiten. Används för att återställa förändringar i en fil.
