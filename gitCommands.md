@@ -18,3 +18,4 @@
 41. git log --author: Visar commit historiken för en specifik användare. Hitta historiken för en använders commits.
 42. git log --since: Visar commit historiken från ett specifikt datum, Används för att söka commits från ett specifikt datum
 43. git log --untill: Visar commit historiken fram till ett specifikt datum, Används för att söka commits till ett specifikt datum
+44. git log --grep: Visar commit historiken för en specifik commit message eller string. Används för att hitta historiken för ett specifik commit medelande eller string.
