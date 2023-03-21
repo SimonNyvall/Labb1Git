@@ -11,3 +11,4 @@
 11. git checkout: Byter till en annan gren. Används för att byta vilken gren man vill kode emot.
 12. git log: Visar commit historiken. Används för att se commit historiken, commit ID och se vart HEAD står.
 13. git diff: Visar skillnaden mellan två variationer av en fil. Kan användas för att se skillnaden mellan två commits `git diff <commit01_ID> <commit02_ID>`
+14. git stash: Temporärt förvarar ändringar som inte är klara för att bli commitade. Används för att lägga undan arbete för att arbeta på det senare.
