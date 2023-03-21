@@ -1,0 +1,22 @@
+git log --graph: Visar commits i history som en graf, för att kunna simplifiera hur historiken har varit.
+git log --oneline: Visar commit historia i komprimerat format, möjligt att göra det lättare att läsa historiken på en rad.
+git merge  --abort: Avbryer pågående operation, om ett misstag har begåtts och man vill avbryta.
+git rm: Tar bort en fil från repot, t.ex. om man missat gitignore.
+git mv: Byter namn på en fil i repot. när man vill byta namn.
+git show: Visar förändringar på en specifik commit. För att kunna följa en bugg som har uppståt.
+git grep: Söker efter en specifik string i repot. Söka igenom alla repo branches för att hitta något man letar efter.
+git shortlog: Visar commit historiken i summerat format. Söka igenom och få author och title på en commit.
+git reflog: Visar en log av alla git kommandon som har genomförts i repot. Används för att kunna kolla vilka kommandon som körts
+git config: Konfigurerar settings för Git. Möjligheten att kunna skapa egna querys i git.
+git clone --depth: Skapar en ytlig klon av ett repo med limiterad historik. Andvänds för att kunna skapa en klon men endast få det man vill ha utav historiken.
+git rebase: Integrerar ändringar från en branch till en annan genom att skriva om commit historiken. Kunna få möjligheten att merga ihop.
+git bisect: Hjälper till att hitta den specifika commit som introducerade en bugg genom att utföra en binär sökning. Används för att kunna hitta buggar.
+git push --force: Tvingar en push till ett remote repo, överskriver alla ändringar som kan vara där. När man inte orkar och bara vill forcea sin commit.
+git remote add: Lägger till en nytt remote repo. Används för att skapa remota repos.
+git remote remove: Tar bort ett remote repo. Används för att ta bort remota repos.
+git remote set-url: Ändrar Urlen för ett remote repo. Används för att ändra Urlen för ett remote repo.
+git log --author: Visar commit historiken för en specifik användare. Hitta historiken för en använders commits.
+git log --since: Visar commit historiken från ett specifikt datum, Används för att söka commits från ett specifikt datum,
+git log --untill: Visar commit historiken fram till ett specifikt datum, Används för att söka commits till ett specifikt datum,
+git log --grep: Visar commit historiken för en specifik commit message eller string. Används för att hitta historiken för ett specifik commit medelande eller string.
+git log --pretty: Formaterar commit historiken på ett specifikt sätt. Används för att formatera commit historiken på ett sätt.
