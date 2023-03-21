@@ -8,3 +8,4 @@
 31. git shortlog: Visar commit historiken i summerat format. Söka igenom och få author och title på en commit.
 32. git reflog: Visar en log av alla git kommandon som har genomförts i repot. Används för att kunna kolla vilka kommandon som körts
 33. git config: Konfigurerar settings för Git. Möjligheten att kunna skapa egna querys i git.
+34. git clone --depth: Skapar en ytlig klon av ett repo med limiterad historik. Andvänds för att kunna skapa en klon men endast få det man vill ha utav historiken.
