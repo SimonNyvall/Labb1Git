@@ -9,3 +9,4 @@
 9. git merge: Sammanfogar förändringar från en gren till en annan. Kan användas för att integrera förändringar från development grenen in i main grenen till exempel.
 10. git branch: Listar alla granar i repositoryt. Används också för att skapa nya grenar med `git branch <gran namn>`
 11. git checkout: Byter till en annan gren. Används för att byta vilken gren man vill kode emot.
+12. git log: Visar commit historiken. Används för att se commit historiken, commit ID och se vart HEAD står.
