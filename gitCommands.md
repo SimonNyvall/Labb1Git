@@ -1,0 +1,1 @@
+1. git init: Skapar ett nytt git repository, används för att starta ett nytt project.
