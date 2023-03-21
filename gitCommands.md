@@ -6,3 +6,4 @@
 29. git show: Visar förändringar på en specifik commit. För att kunna följa en bugg som har uppståt.
 30. git grep: Söker efter en specifik string i repot. Söka igenom alla repo branches för att hitta något man letar efter.
 31. git shortlog: Visar commit historiken i summerat format. Söka igenom och få author och title på en commit.
+32. git reflog: Visar en log av alla git kommandon som har genomförts i repot. Används för att kunna kolla vilka kommandon som körts
