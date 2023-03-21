@@ -1,0 +1,23 @@
+git init
+git clone
+git add
+git commit
+git status
+git push
+git pull
+git fetch
+git merge
+git branch
+git checkout
+git log
+git diff
+git stach
+git reset
+git revert
+git cherry-pick
+git blame
+git remote
+git tag
+git fetch --prune
+git checkout -b
+git checkout --
