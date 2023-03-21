@@ -3,3 +3,4 @@
 26. git merge  --abort: Avbryer pågående operation, om ett misstag har begåtts och man vill avbryta.
 27. git rm: Tar bort en fil från repot, t.ex. om man missat gitignore.
 28. git mv: Byter namn på en fil i repot. när man vill byta namn.
+29. git show: Visar förändringar på en specifik commit. För att kunna följa en bugg som har uppståt.
