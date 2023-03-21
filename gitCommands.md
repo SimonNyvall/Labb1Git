@@ -5,3 +5,4 @@
 5. git status: Visar det nuvarande läget av repositoryt, används för att se vilka filer som har ändrats men inte lagts till i repositoryt med git add.
 6. git push: Laddar upp de locala förändringarna till ett remote repository. Används för att ladda upp de senaste förändringarna gjorde i sett projekt.
 7. git pull: Hämtar och sammanfogar ändringar från ett remote repository. Används för att hämta de senaste ändringarna gjorda till projektet.
+8. git fetsh: Hämtar ändringar fråm ett remote repository. Används för att se de förändringar som har hänt i repositorut.
