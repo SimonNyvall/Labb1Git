@@ -22,7 +22,8 @@ git tag
 git fetch --prune
 git checkout -b
 git checkout --
-git log --graphgit
+Mattias Lista
+git log --graph
 git log --oneline
 git merge  --abort
 git rm
