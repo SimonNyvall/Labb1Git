@@ -16,3 +16,4 @@
 39. git remote remove: Tar bort ett remote repo. Används för att ta bort remota repos.
 40. git remote set-url: Ändrar Urlen för ett remote repo. Används för att ändra Urlen för ett remote repo.
 41. git log --author: Visar commit historiken för en specifik användare. Hitta historiken för en använders commits.
+42. git log --since: Visar commit historiken från ett specifikt datum, Används för att söka commits från ett specifikt datum
