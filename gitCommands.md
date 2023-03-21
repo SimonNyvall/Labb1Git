@@ -5,3 +5,4 @@
 28. git mv: Byter namn på en fil i repot. när man vill byta namn.
 29. git show: Visar förändringar på en specifik commit. För att kunna följa en bugg som har uppståt.
 30. git grep: Söker efter en specifik string i repot. Söka igenom alla repo branches för att hitta något man letar efter.
+31. git shortlog: Visar commit historiken i summerat format. Söka igenom och få author och title på en commit.
