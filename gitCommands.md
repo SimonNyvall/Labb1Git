@@ -10,3 +10,4 @@
 10. git branch: Listar alla granar i repositoryt. Används också för att skapa nya grenar med `git branch <gran namn>`
 11. git checkout: Byter till en annan gren. Används för att byta vilken gren man vill kode emot.
 12. git log: Visar commit historiken. Används för att se commit historiken, commit ID och se vart HEAD står.
+13. git diff: Visar skillnaden mellan två variationer av en fil. Kan användas för att se skillnaden mellan två commits `git diff <commit01_ID> <commit02_ID>`
