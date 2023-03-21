@@ -14,3 +14,4 @@
 37. git push --force: Tvingar en push till ett remote repo, överskriver alla ändringar som kan vara där. När man inte orkar och bara vill forcea sin commit.
 38. git remote add: Lägger till en nytt remote repo. Används för att skapa remota repos.
 39. git remote remove: Tar bort ett remote repo. Används för att ta bort remota repos.
+40. git remote set-url: Ändrar Urlen för ett remote repo. Används för att ändra Urlen för ett remote repo.
