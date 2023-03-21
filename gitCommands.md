@@ -8,3 +8,4 @@
 8. git fetsh: Hämtar ändringar fråm ett remote repository. Används för att se de förändringar som har hänt i repositorut.
 9. git merge: Sammanfogar förändringar från en gren till en annan. Kan användas för att integrera förändringar från development grenen in i main grenen till exempel.
 10. git branch: Listar alla granar i repositoryt. Används också för att skapa nya grenar med `git branch <gran namn>`
+11. git checkout: Byter till en annan gren. Används för att byta vilken gren man vill kode emot.
