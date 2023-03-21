@@ -10,3 +10,4 @@
 33. git config: Konfigurerar settings för Git. Möjligheten att kunna skapa egna querys i git.
 34. git clone --depth: Skapar en ytlig klon av ett repo med limiterad historik. Andvänds för att kunna skapa en klon men endast få det man vill ha utav historiken.
 35. git rebase: Integrerar ändringar från en branch till en annan genom att skriva om commit historiken. Kunna få möjligheten att merga ihop.
+36. git bisect: Hjälper till att hitta den specifika commit som introducerade en bugg genom att utföra en binär sökning. Används för att kunna hitta buggar.
