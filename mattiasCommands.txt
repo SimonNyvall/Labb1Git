@@ -1,4 +1,4 @@
-git log --graph
+git log --graphgit
 git log --oneline
 git merge  --abort
 git rm
