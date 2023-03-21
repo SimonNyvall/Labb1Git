@@ -22,3 +22,25 @@ git tag
 git fetch --prune
 git checkout -b
 git checkout --
+git log --graphgit
+git log --oneline
+git merge  --abort
+git rm
+git mv
+git show
+git grep
+git shortlog
+git reflog
+git config
+git clone --depth
+git rebase
+git bisect
+git push --force
+git remote add
+git remote remove
+git remote set-url
+git log --author
+git log --since
+git log --untill
+git log --grep
+git log --pretty
